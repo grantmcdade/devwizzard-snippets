@@ -14,11 +14,15 @@
         "snippets": [
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/javascript.json"
             },
             {
                 "language": "html",
                 "path": "./snippets/html.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css.json"
             },
             {
                 "language": "json",
