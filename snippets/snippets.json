@@ -1,0 +1,9 @@
+{
+    "JavaScript Header": {
+        "prefix": "dw:license",
+        "body": [
+                "/* Copyright $1 Grant McDade\r\nPermission is hereby granted, free of charge, to any person obtaining a\r\ncopy of this software and associated documentation files\r\n(the \"Software\"), to deal in the Software without restriction,\r\nincluding without limitation the rights to use, copy, modify, merge,\r\npublish, distribute, sublicense, and/or sell copies of the Software,\r\nand to permit persons to whom the Software is furnished to do so,\r\nsubject to the following conditions: The above copyright notice and\r\nthis permission notice shall be included in all copies or substantial\r\nportions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\r\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\r\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\r\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\r\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\r\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\r\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. */\r\n\r\n$0"
+            ],
+        "description": "The MIT licence header"
+    }
+}

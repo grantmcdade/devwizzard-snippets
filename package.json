@@ -1,0 +1,25 @@
+{
+    "name": "devwizzard-snippets",
+    "displayName": "Devwizzard Snippets",
+    "description": "Snippets for use in devwizzard projects",
+    "version": "0.0.1",
+    "publisher": "devwizzard",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            }
+        ]
+    }
+}
